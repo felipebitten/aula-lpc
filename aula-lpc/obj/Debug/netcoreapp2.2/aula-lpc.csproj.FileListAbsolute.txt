@@ -1,0 +1,11 @@
+C:\Users\Felipe\Desktop\aula-lpc\bin\Debug\netcoreapp2.2\aula-lpc.deps.json
+C:\Users\Felipe\Desktop\aula-lpc\bin\Debug\netcoreapp2.2\aula-lpc.runtimeconfig.json
+C:\Users\Felipe\Desktop\aula-lpc\bin\Debug\netcoreapp2.2\aula-lpc.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\aula-lpc\bin\Debug\netcoreapp2.2\aula-lpc.dll
+C:\Users\Felipe\Desktop\aula-lpc\bin\Debug\netcoreapp2.2\aula-lpc.pdb
+C:\Users\Felipe\Desktop\aula-lpc\obj\Debug\netcoreapp2.2\aula-lpc.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\aula-lpc\obj\Debug\netcoreapp2.2\aula-lpc.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\aula-lpc\obj\Debug\netcoreapp2.2\aula-lpc.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\aula-lpc\obj\Debug\netcoreapp2.2\aula-lpc.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\aula-lpc\obj\Debug\netcoreapp2.2\aula-lpc.dll
+C:\Users\Felipe\Desktop\aula-lpc\obj\Debug\netcoreapp2.2\aula-lpc.pdb
